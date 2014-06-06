@@ -1,0 +1,15 @@
+
+/* Class = "IBUINavigationItem"; title = "Book Store"; ObjectID = "48s-f4-d43"; */
+"48s-f4-d43.title" = "書店";
+
+/* Class = "IBUILabel"; text = "Simon Ng"; ObjectID = "drd-3m-dzh"; */
+"drd-3m-dzh.text" = "吳量為";
+
+/* Class = "IBUILabel"; text = "The book is designed to help you jump start the iOS game development. Unlike other books in the market, the book will teach you how to build a complete memory game. The book comes with full source code of a memory game for both iPhone and iPad and we'll explain in details how the code works. Not only you can learn iOS game programming, you'll have a real game to sell it on App Store after finishing the book. Great, right?"; ObjectID = "ppG-7e-B24"; */
+"ppG-7e-B24.text" = "本書旨在幫助您迅速啟動了iOS遊戲開發。不同於市場上其他的書，這本書將教你如何構建一個完整的記憶遊戲。本書附帶整個記憶遊戲的全部源代碼。本書將詳細解釋代碼是如何作的。您不僅可以學到iOS遊戲編程，當你讀畢這本書後，你將擁有一個屬於你的遊戲App並可在App Store上出售。";
+
+/* Class = "IBUIButton"; normalTitle = "Buy"; ObjectID = "x8B-oQ-A12"; */
+"x8B-oQ-A12.normalTitle" = "購買";
+
+/* Class = "IBUILabel"; text = "Beginning iOS Game Programming"; ObjectID = "zcL-xW-VLQ"; */
+"zcL-xW-VLQ.text" = "iOS遊戲編程";

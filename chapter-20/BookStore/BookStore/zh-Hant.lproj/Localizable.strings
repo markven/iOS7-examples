@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  BookStore
+
+  Created by Simon on 18/1/14.
+  Copyright (c) 2014 Appcoda. All rights reserved.
+*/
+
+"BOOK_PURCHASED" = "感謝你購買本產品！";
